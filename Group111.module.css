@@ -1,0 +1,658 @@
+.group-child43,
+.group-child44 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-600);
+  box-sizing: border-box;
+  width: 796px;
+  height: 1031px;
+}
+.group-child44 {
+  top: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 120.2px;
+  height: 42.1px;
+}
+.add-elements {
+  position: absolute;
+  top: 13.59px;
+  left: 19.33px;
+}
+.group-child45,
+.rectangle-parent25 {
+  position: absolute;
+  top: 1053px;
+  left: 342px;
+  width: 120.2px;
+  height: 42.1px;
+}
+.group-child45 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-beige);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 103px;
+  height: 24px;
+}
+.col-template {
+  position: absolute;
+  top: 5.6px;
+  left: 10px;
+}
+.group-child46,
+.rectangle-parent26 {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  width: 103px;
+  height: 24px;
+}
+.group-child46 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-beige);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 24px;
+}
+.group-child47 {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  width: 6px;
+  height: 12px;
+}
+.group-child48,
+.rectangle-parent27 {
+  position: absolute;
+  top: 0;
+  left: 137px;
+  width: 24px;
+  height: 24px;
+}
+.group-child48 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-beige);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.group-child49 {
+  position: absolute;
+  top: -18px;
+  left: -16px;
+  width: 6px;
+  height: 12px;
+  transform: rotate(180deg);
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.group-container {
+  position: absolute;
+  top: 75px;
+  left: 611px;
+  width: 161px;
+  height: 24px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+}
+.group-child50,
+.group-child51 {
+  position: absolute;
+  top: 46px;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 133px;
+  height: 1029px;
+}
+.group-child51 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-500);
+  box-sizing: border-box;
+  width: 619px;
+  height: 61.1px;
+}
+.title-crosspuzzle {
+  white-space: pre-wrap;
+}
+.edit-title {
+  color: var(--color-darkgray-400);
+}
+.title-crosspuzzle-edit-container {
+  position: absolute;
+  top: 24.29px;
+  left: 30.05px;
+  display: inline-block;
+  width: 225px;
+  height: 18px;
+}
+.star-1-icon,
+.star-2-icon {
+  top: 0;
+  width: 14.2px;
+  object-fit: cover;
+}
+.star-1-icon {
+  position: absolute;
+  left: 45.23px;
+  height: 14.2px;
+}
+.star-2-icon {
+  left: 22.62px;
+}
+.star-1-parent,
+.star-2-icon,
+.star-3-icon {
+  position: absolute;
+  height: 14.2px;
+}
+.star-3-icon {
+  top: 0;
+  left: 0;
+  width: 14.2px;
+  object-fit: cover;
+}
+.star-1-parent {
+  top: 23.45px;
+  left: 532.73px;
+  width: 59.5px;
+}
+.rectangle-parent29 {
+  position: absolute;
+  top: 108px;
+  left: 153px;
+  width: 619px;
+  height: 61.1px;
+  font-size: var(--font-size-sm);
+}
+.group-child52 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-beige);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 79px;
+  height: 24px;
+}
+.remove-title {
+  position: absolute;
+  top: 5.6px;
+  left: 8.94px;
+}
+.rectangle-parent30 {
+  position: absolute;
+  top: 75px;
+  left: 153px;
+  width: 79px;
+  height: 24px;
+  font-size: var(--font-size-3xs);
+}
+.group-child53,
+.group-child54,
+.group-child55,
+.group-child56,
+.group-child57,
+.group-child58,
+.group-child59 {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-cadetblue);
+  box-sizing: border-box;
+  width: 99.9px;
+  height: 127.2px;
+}
+.group-child54,
+.group-child55,
+.group-child56,
+.group-child57,
+.group-child58,
+.group-child59 {
+  top: 148.5px;
+  border: 1px solid var(--color-gainsboro-600);
+}
+.group-child55,
+.group-child56,
+.group-child57,
+.group-child58,
+.group-child59 {
+  top: 297px;
+}
+.group-child56,
+.group-child57,
+.group-child58,
+.group-child59 {
+  top: 445px;
+}
+.group-child57,
+.group-child58,
+.group-child59 {
+  top: 613px;
+}
+.group-child58,
+.group-child59 {
+  top: 589px;
+  left: 0;
+  background-color: var(--color-gainsboro-700);
+  width: 120px;
+  height: 5px;
+}
+.group-child59 {
+  top: 761px;
+  left: 10px;
+  background-color: var(--color-white);
+  width: 99.9px;
+  height: 127.2px;
+}
+.untitled-1-2-icon {
+  position: absolute;
+  top: 33px;
+  left: calc(50% - 32px);
+  width: 63px;
+  height: 61px;
+  object-fit: cover;
+}
+.untitled-1-1-icon,
+.untitled-1-3-icon,
+.untitled-1-4-icon,
+.untitled-1-5-icon,
+.untitled-1-6-icon {
+  position: absolute;
+  top: 182px;
+  left: calc(50% - 32px);
+  width: 63px;
+  height: 61px;
+  object-fit: cover;
+}
+.untitled-1-3-icon,
+.untitled-1-4-icon,
+.untitled-1-5-icon,
+.untitled-1-6-icon {
+  top: 330px;
+}
+.untitled-1-4-icon,
+.untitled-1-5-icon,
+.untitled-1-6-icon {
+  top: 479px;
+}
+.untitled-1-5-icon,
+.untitled-1-6-icon {
+  top: 646px;
+}
+.untitled-1-6-icon {
+  top: 794px;
+}
+.group-child60,
+.rectangle-parent31 {
+  position: absolute;
+  top: 108px;
+  left: 7px;
+  width: 120px;
+  height: 888.2px;
+}
+.group-child60 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-500);
+  box-sizing: border-box;
+  width: 585px;
+  height: 573px;
+}
+.untitled-1-1-icon1 {
+  position: absolute;
+  top: 32px;
+  left: calc(50% - 253.5px);
+  width: 517px;
+  height: 517px;
+  object-fit: cover;
+  display: none;
+}
+.rectangle-parent32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 585px;
+  height: 573px;
+}
+.group-child61,
+.group-child62,
+.group-child63,
+.group-child64 {
+  position: absolute;
+  top: 594px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-500);
+  box-sizing: border-box;
+  width: 133px;
+  height: 253px;
+}
+.group-child62,
+.group-child63,
+.group-child64 {
+  left: 452px;
+}
+.group-child63,
+.group-child64 {
+  left: 151px;
+}
+.group-child64 {
+  left: 302px;
+}
+.across {
+  font-weight: 900;
+}
+.across,
+.bear,
+.before-1917,
+.burdensome,
+.charge,
+.coated-with-red,
+.constellation,
+.efface,
+.haul,
+.image,
+.of-arc-light,
+.of-the-nose,
+.parliament,
+.powerful-type,
+.russian,
+.wax,
+.yellow-cheese {
+  margin: 0;
+}
+.across-1-yellow-container {
+  position: absolute;
+  top: 606px;
+  left: 18px;
+  text-transform: capitalize;
+  display: none;
+  width: 106px;
+  height: 227px;
+}
+.down {
+  font-weight: 900;
+}
+.bear1,
+.before-19171,
+.burdensome1,
+.charge1,
+.coated-with-red1,
+.constellation1,
+.down,
+.efface1,
+.haul1,
+.image1,
+.of-arc-light1,
+.of-the-nose1,
+.parliament1,
+.powerful-type1,
+.russian1,
+.wax1,
+.yellow-cheese1 {
+  margin: 0;
+}
+.down-1-yellow-container {
+  position: absolute;
+  top: 606px;
+  left: 470px;
+  text-transform: capitalize;
+  display: none;
+  width: 106px;
+  height: 227px;
+}
+.bird-shelters,
+.derived-from-a,
+.frozen-water,
+.indication,
+.italian-city,
+.ketone,
+.legal-right,
+.masterstroke,
+.monetary-unit,
+.oilier,
+.opened-flower,
+.partially,
+.pericarp,
+.punctually,
+.searches,
+.sick {
+  margin: 0;
+}
+.pericarp-22-oilier-container {
+  position: absolute;
+  top: 606px;
+  left: 169px;
+  text-transform: capitalize;
+  display: none;
+  width: 100px;
+  height: 227px;
+}
+.authentic,
+.automobile,
+.cursing,
+.destruction,
+.disrespectful,
+.generator,
+.germinated-grain,
+.hindu-god-of,
+.othello,
+.prefix-over,
+.primates,
+.tenor-violin,
+.the-villain-in,
+.used-in-brewing {
+  margin: 0;
+}
+.prefix-over-42-container {
+  position: absolute;
+  top: 606.24px;
+  left: 321.12px;
+  text-transform: capitalize;
+  display: none;
+  width: 109.9px;
+  height: 243px;
+}
+.group-parent1 {
+  position: absolute;
+  top: 188px;
+  left: 158px;
+  width: 585px;
+  height: 847px;
+  font-size: var(--font-size-2xs);
+}
+.child,
+.child1,
+.inner,
+.item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gainsboro-600);
+  box-sizing: border-box;
+  width: 109px;
+  height: 37px;
+}
+.child1,
+.inner,
+.item {
+  left: 121px;
+  width: 75px;
+}
+.child1,
+.inner {
+  left: 208px;
+  width: 57px;
+}
+.child1 {
+  left: 277px;
+  width: 112px;
+}
+.border,
+.insert-image,
+.line,
+.transparency {
+  position: absolute;
+  top: 9.93px;
+  left: 18.3px;
+}
+.border,
+.line,
+.transparency {
+  left: 139.3px;
+}
+.line,
+.transparency {
+  left: 225px;
+}
+.transparency {
+  left: 294px;
+}
+.child2,
+.child3,
+.child4,
+.child5,
+.div30 {
+  position: absolute;
+  top: 0;
+  left: 407px;
+  width: 389px;
+  height: 37px;
+}
+.child2,
+.child3,
+.child4,
+.child5 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gainsboro-600);
+  box-sizing: border-box;
+  width: 98px;
+}
+.child3,
+.child4,
+.child5 {
+  left: 195px;
+  width: 59px;
+}
+.child4,
+.child5 {
+  left: 109px;
+  width: 74px;
+}
+.child5 {
+  left: 266px;
+  width: 59px;
+}
+.insert-text {
+  position: absolute;
+  top: 9.93px;
+  left: 18.3px;
+}
+.bold,
+.child6,
+.italic,
+.regular {
+  position: absolute;
+  top: 9.93px;
+  left: 210.3px;
+}
+.child6,
+.italic,
+.regular {
+  left: 125px;
+}
+.child6,
+.italic {
+  left: 281.3px;
+}
+.child6 {
+  top: 0;
+  left: 337px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gainsboro-600);
+  box-sizing: border-box;
+  width: 43px;
+  height: 37px;
+}
+.group-child65,
+.group-child66,
+.group-child67,
+.group-child68 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-silver-300);
+  width: 20px;
+  height: 2px;
+}
+.group-child66,
+.group-child67,
+.group-child68 {
+  top: 15px;
+}
+.group-child67,
+.group-child68 {
+  top: 5px;
+  width: 15px;
+}
+.group-child68 {
+  top: 10px;
+  width: 18px;
+}
+.div31,
+.rectangle-parent33,
+.tools {
+  position: absolute;
+  top: 10px;
+  left: 349px;
+  width: 20px;
+  height: 17px;
+}
+.div31,
+.tools {
+  top: 0;
+  left: 0;
+  width: 380px;
+  height: 37px;
+}
+.tools {
+  width: 796px;
+}
+.rectangle-wrapper {
+  position: relative;
+  width: 100%;
+  height: 1095.1px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

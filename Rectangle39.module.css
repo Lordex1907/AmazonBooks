@@ -1,0 +1,8 @@
+.rectangle-div16 {
+  position: relative;
+  border: 2px solid var(--color-limegreen);
+  box-sizing: border-box;
+  width: 100%;
+  height: 25px;
+  display: none;
+}

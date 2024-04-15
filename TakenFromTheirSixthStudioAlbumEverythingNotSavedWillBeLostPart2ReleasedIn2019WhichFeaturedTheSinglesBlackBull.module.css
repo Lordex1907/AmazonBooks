@@ -1,0 +1,10 @@
+.taken-from-their {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 161.02%;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1081px;
+}

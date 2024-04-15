@@ -1,0 +1,8 @@
+.bg10 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 78px;
+  display: none;
+}

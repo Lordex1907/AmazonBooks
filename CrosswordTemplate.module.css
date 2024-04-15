@@ -1,0 +1,8 @@
+.crossword-template {
+  position: relative;
+  font-size: var(--font-size-29xl);
+  font-weight: 900;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}

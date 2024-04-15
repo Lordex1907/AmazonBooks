@@ -1,0 +1,22 @@
+.page-01100 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.pages-child {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  background-color: var(--color-gainsboro-500);
+  width: 480px;
+  height: 1px;
+}
+.pages {
+  position: relative;
+  width: 100%;
+  height: 17px;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-400);
+  font-family: var(--font-inter);
+}
